@@ -8,5 +8,5 @@ My Blockly-Code Samples (Beta Version)
 - 1 LED_Red_Green_Blue.bin
 
 **LAB 10 - การคำนวณเพื่อประยุกต์ใช้งาน ในการวัดสารเคมีต่างๆ ในน้ำ สามารถสร้างการสอบเทียบ (จะได้กล่าวต่อไป) และเมื่อได้สมการแล้วนำสมการมาใส่ลงในโปรแกรมได้ดังตัวอย่าง**
-- Block1 - pH.bin
-- Block2 - Chlorine.bin
+- 10 pH.bin
+- 10 Chlorine.bin
