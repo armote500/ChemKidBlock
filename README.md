@@ -4,6 +4,7 @@ My Blockly-Code Samples (Beta Version)
 **LAB 0 - การเขียน Blockly ที่เป็นพื้นฐานการใช้งานบอร์ด KidBright สามารถศึกษา Code ได้ดังตัวอย่าง**
 - 0 Display Hello.bin
 - 0 Key and Display 2 Chars.bin
+- 0 Sensor Light.bin
 
 **LAB 1 - การควบคุม LED สามารถกำหนดความสว่าง 0-255 ระดับ โดยเปิดพร้อมกัน หรือเปิดดวงเดียว ได้ดังตัวอย่าง**
 - 1 LED_Red.bin
