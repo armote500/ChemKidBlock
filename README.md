@@ -1,6 +1,10 @@
 # ChemKidBlock
 My Blockly-Code Samples (Beta Version)
 
+**LAB 0 - การเขียน Blockly ที่เป็นพื้นฐานการใช้งานบอร์ด KidBright สามารถศึกษา Code ได้ดังตัวอย่าง**
+- 0 Display Hello.bin
+- 0 Key and Display 2 Chars.bin
+
 **LAB 1 - การควบคุม LED สามารถกำหนดความสว่าง 0-255 ระดับ โดยเปิดพร้อมกัน หรือเปิดดวงเดียว ได้ดังตัวอย่าง**
 - 1 LED_Red.bin
 - 1 LED_Green.bin
@@ -18,7 +22,7 @@ My Blockly-Code Samples (Beta Version)
 - 3 Blue_Percent100.bin
 - 3 Blue_PercentRoundTo100.bin
 - 3 Blue_PercentRoundTo100Scroll.bin จะแสดงข้อความแบบเลื่อนเมื่อ x มีค่าเกิน 43
-- 3 Blue_PercentRoundTo100ScrollDependKey จะแสดงข้อความแบบเลื่อนเมื่อมีการกด Key1
+- 3 Blue_PercentRoundTo100ScrollDependKey.bin จะแสดงข้อความแบบเลื่อนเมื่อมีการกด Key1
 
 **LAB 10 - การคำนวณเพื่อประยุกต์ใช้งาน ในการวัดสารเคมีต่างๆ ในน้ำ สามารถสร้างการสอบเทียบ (จะได้กล่าวต่อไป) และเมื่อได้สมการแล้วนำสมการมาใส่ลงในโปรแกรมได้ดังตัวอย่าง**
 - 10 pH.bin
