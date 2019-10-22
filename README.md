@@ -7,6 +7,12 @@ My Blockly-Code Samples (Beta Version)
 - 1 LED_Blue.bin
 - 1 LED_Red_Green_Blue.bin
 
+**LAB 2 - การอ่าน Sensor สามารถอ่านค่าของความเข้มแสง (Intensity) 0-65535 ระดับ หรือ 16 บิท ของ Sensor สีแดง สีเขียว สีน้ำเงิน หรือสีขาว ได้ดังตัวอย่าง**
+- 2 Sensor_Red.bin
+- 2 Sensor_Green.bin
+- 2 Sensor_Blue.bin
+- 2 Sensor_White.bin
+
 **LAB 10 - การคำนวณเพื่อประยุกต์ใช้งาน ในการวัดสารเคมีต่างๆ ในน้ำ สามารถสร้างการสอบเทียบ (จะได้กล่าวต่อไป) และเมื่อได้สมการแล้วนำสมการมาใส่ลงในโปรแกรมได้ดังตัวอย่าง**
 - 10 pH.bin
 - 10 Chlorine.bin
