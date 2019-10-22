@@ -17,7 +17,8 @@ My Blockly-Code Samples (Beta Version)
 - 3 Blue_Percent.bin
 - 3 Blue_Percent100.bin
 - 3 Blue_PercentRoundTo100.bin
-- 3 Blue_PercentRoundTo100Scroll.bin
+- 3 Blue_PercentRoundTo100Scroll.bin จะแสดงข้อความแบบเลื่อนเมื่อ x มีค่าเกิน 43
+- 3 Blue_PercentRoundTo100ScrollDependKey จะแสดงข้อความแบบเลื่อนเมื่อมีการกด Key1
 
 **LAB 10 - การคำนวณเพื่อประยุกต์ใช้งาน ในการวัดสารเคมีต่างๆ ในน้ำ สามารถสร้างการสอบเทียบ (จะได้กล่าวต่อไป) และเมื่อได้สมการแล้วนำสมการมาใส่ลงในโปรแกรมได้ดังตัวอย่าง**
 - 10 pH.bin
