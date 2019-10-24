@@ -2,6 +2,8 @@
 My Blockly-Code Samples (Beta Version)
 
 **LAB 0 - การเขียน Blockly ที่เป็นพื้นฐานการใช้งานบอร์ด KidBright สามารถศึกษา Code ได้ดังตัวอย่าง**
+- 0 Basic - Forever.bin
+- 0 Basic - ForeverNo.bin
 - 0 Basic - Hello.bin แสดงข้อความบนจอ LED ของบอร์ด KidBright
 - 0 Clock - DateTime.bin แสดงวันเวลาบนจอ LED
 - 0 Logic - Key Pressed.bin แสดงการใช้ปุ่มกด
