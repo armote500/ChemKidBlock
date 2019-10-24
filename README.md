@@ -34,3 +34,7 @@ My Blockly-Code Samples (Beta Version)
 - ตัวอย่าง Coding pH (Marine).bin
 
 ![GitHub Logo](images/chemkid.jpg)
+> ChemKid
+
+![GitHub Logo](images/chemkidbasic.jpg)
+> ChemKid Basic Block
