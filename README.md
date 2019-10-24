@@ -33,8 +33,13 @@ My Blockly-Code Samples (Beta Version)
 - ตัวอย่าง Coding Chlorine (Para).bin
 - ตัวอย่าง Coding pH (Marine).bin
 
+> อุปกรณ์และส่วนประกอบของ ChemKid เครื่องอ่านสีสารละลาย 
 ![GitHub Logo](images/chemkid.jpg)
-> ChemKid
 
+> โปรแกรม บล็อกของ ChemKid อย่างง่าย
 ![GitHub Logo](images/chemkidbasic.jpg)
-> ChemKid Basic Block
+
+> โปรแกรม บล็อกของ 0 Basic - Forever.bin
+![GitHub Logo](images/0 Basic - Forever.png)
+
+
