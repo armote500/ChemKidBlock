@@ -59,3 +59,15 @@ My Blockly-Code Samples (Beta Version)
 
 > โปรแกรม บล็อกของ 0 Sensor - Light Level Sensor.bin
 ![GitHub Logo](images/0Sensor-LightLevelSensor.jpg)
+
+> โปรแกรม บล็อกของ 1 CK - LED_Red.bin
+![GitHub Logo](images/1CK-LED_Red.jpg)
+
+> โปรแกรม บล็อกของ 1 CK - LED_Green.bin
+![GitHub Logo](images/1CK-LED_Green.jpg)
+
+> โปรแกรม บล็อกของ 1 CK - LED_Blue.bin
+![GitHub Logo](images/1CK-LED_Blue.jpg)
+
+> โปรแกรม บล็อกของ 1 CK - LED_Red_Green_Blue.bin
+![GitHub Logo](images/1CK-LED_Red_Green_Blue.jpg)
