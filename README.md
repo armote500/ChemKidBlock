@@ -99,4 +99,4 @@ My Blockly-Code Samples (Beta Version)
 ![GitHub Logo](images/3CK-Blue_PercentRoundTo100Scroll.jpg)
 
 > โปรแกรม บล็อกของ 3 CK - Blue_PercentRoundTo100ScrollDependKey.bin
-![GitHub Logo](images/3CK-Blue_PercentRoundTo100ScrollDepebdKey.jpg)
+![GitHub Logo](images/3CK-Blue_PercentRoundTo100ScrollDependKey.jpg)
