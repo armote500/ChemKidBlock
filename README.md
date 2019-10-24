@@ -71,3 +71,15 @@ My Blockly-Code Samples (Beta Version)
 
 > โปรแกรม บล็อกของ 1 CK - LED_Red_Green_Blue.bin
 ![GitHub Logo](images/1CK-LED_Red_Green_Blue.jpg)
+
+> โปรแกรม บล็อกของ 2 CK - Sensor_Red.bin
+![GitHub Logo](images/2CK-Sensor_Red.jpg)
+
+> โปรแกรม บล็อกของ 2 CK - Sensor_Green.bin
+![GitHub Logo](images/2CK-Sensor_Green.jpg)
+
+> โปรแกรม บล็อกของ 2 CK - Sensor_Blue.bin
+![GitHub Logo](images/2CK-Sensor_Blue.jpg)
+
+> โปรแกรม บล็อกของ 2 CK - Sensor_White.bin
+![GitHub Logo](images/2CK-Sensor_White.jpg)
