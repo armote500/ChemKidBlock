@@ -98,5 +98,11 @@ My Blockly-Code Samples (Beta Version)
 > โปรแกรม บล็อกของ 3 CK - Blue_PercentRoundTo100Scroll.bin
 ![GitHub Logo](images/3CK-Blue_PercentRoundTo100Scroll.jpg)
 
-> โปรแกรม บล็อกของ 3 CK - Blue_PercentRoundTo100ScrollDependKey.bin
-![GitHub Logo](images/3CK-Blue_PercentRoundTo100ScrollDependKey.jpg)
+> โปรแกรม บล็อกของ ตัวอย่าง Coding Chlorine (Para).bin
+![GitHub Logo](images/ตัวอย่างCodingChlorine(Para).jpg)
+
+
+> โปรแกรม บล็อกของ ตัวอย่าง Coding pH (Marine).bin
+![GitHub Logo](images/ตัวอย่างCodingpH(Marine).jpg)
+
+
