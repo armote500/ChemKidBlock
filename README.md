@@ -32,3 +32,5 @@ My Blockly-Code Samples (Beta Version)
 **LAB 10 - การคำนวณเพื่อประยุกต์ใช้งาน ในการวัดสารเคมีต่างๆ ในน้ำ สามารถสร้างการสอบเทียบ (จะได้กล่าวต่อไป) และเมื่อได้สมการแล้วนำสมการมาใส่ลงในโปรแกรมได้ดังตัวอย่าง**
 - ตัวอย่าง Coding Chlorine (Para).bin
 - ตัวอย่าง Coding pH (Marine).bin
+
+![GitHub Logo](images/chemkid.jpg)
