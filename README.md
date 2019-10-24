@@ -49,13 +49,13 @@ My Blockly-Code Samples (Beta Version)
 ![GitHub Logo](images/0Basic-Hello.jpg)
 
 > โปรแกรม บล็อกของ 0 Clock - DateTime.bin
-![GitHub Logo](images/Clock-DateTime.jpg)
+![GitHub Logo](images/0Clock-DateTime.jpg)
 
 > โปรแกรม บล็อกของ 0 Logic - KeyPressed.bin
-![GitHub Logo](images/0Logic-Pressed.jpg)
+![GitHub Logo](images/0Logic-KeyPressed.jpg)
 
 > โปรแกรม บล็อกของ 0 Music - Note.bin
 ![GitHub Logo](images/0Music-Note.jpg)
 
 > โปรแกรม บล็อกของ 0 Sensor - Light Level Sensor.bin
-![GitHub Logo](images/0Sensor-LightLevelSernsor.jpg)
+![GitHub Logo](images/0Sensor-LightLevelSensor.jpg)
