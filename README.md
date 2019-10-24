@@ -42,4 +42,20 @@ My Blockly-Code Samples (Beta Version)
 > โปรแกรม บล็อกของ 0 Basic - Forever.bin
 ![GitHub Logo](images/0Basic-Forever.jpg)
 
+> โปรแกรม บล็อกของ 0 Basic - ForeverNo.bin
+![GitHub Logo](images/0Basic-ForeverNo.jpg)
 
+> โปรแกรม บล็อกของ 0 Basic - Hello.bin
+![GitHub Logo](images/0Basic-Hello.jpg)
+
+> โปรแกรม บล็อกของ 0 Clock - DateTime.bin
+![GitHub Logo](images/Clock-DateTime.jpg)
+
+> โปรแกรม บล็อกของ 0 Logic - KeyPressed.bin
+![GitHub Logo](images/0Logic-Pressed.jpg)
+
+> โปรแกรม บล็อกของ 0 Music - Note.bin
+![GitHub Logo](images/0Music-Note.jpg)
+
+> โปรแกรม บล็อกของ 0 Sensor - Light Level Sensor.bin
+![GitHub Logo](images/0Sensor-LightLevelSernsor.jpg)
