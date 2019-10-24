@@ -3,10 +3,10 @@ My Blockly-Code Samples (Beta Version)
 
 **LAB 0 - การเขียน Blockly ที่เป็นพื้นฐานการใช้งานบอร์ด KidBright สามารถศึกษา Code ได้ดังตัวอย่าง**
 - 0 Basic - Hello.bin แสดงข้อความบนจอ LED ของบอร์ด KidBright
-- 0 Clock - DateTime.bin
-- 0 Logic - Key Pressed.bin
-- 0 Music - Note.bin
-- 0 Sensor - Light Level Sensor.bin
+- 0 Clock - DateTime.bin แสดงวันเวลาบนจอ LED
+- 0 Logic - Key Pressed.bin แสดงการใช้ปุ่มกด
+- 0 Music - Note.bin แสดงเสียงโน๊ตดนตรีและการคุมความดังของเสียง
+- 0 Sensor - Light Level Sensor.bin แสดงการอ่านและแสดงความเข้มแสงจากเซนเซอร์แสง
 
 **LAB 1 - การควบคุม LED สามารถกำหนดความสว่าง 0-255 ระดับ โดยเปิดพร้อมกัน หรือเปิดดวงเดียว ได้ดังตัวอย่าง**
 - 1 CK - LED_Red.bin
