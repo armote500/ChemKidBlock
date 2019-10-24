@@ -83,3 +83,20 @@ My Blockly-Code Samples (Beta Version)
 
 > โปรแกรม บล็อกของ 2 CK - Sensor_White.bin
 ![GitHub Logo](images/2CK-Sensor_White.jpg)
+
+
+
+> โปรแกรม บล็อกของ 3 CK - Blue_Percent.bin
+![GitHub Logo](images/3CK-Blue_Percent.jpg)
+
+> โปรแกรม บล็อกของ 3 CK - Blue_Percent100.bin
+![GitHub Logo](images/3CK-Blue_Percent100.jpg)
+
+> โปรแกรม บล็อกของ 3 CK - Blue_PercentRoundTo100.bin
+![GitHub Logo](images/3CK-Blue_PercentRoundTo100.jpg)
+
+> โปรแกรม บล็อกของ 3 CK - Blue_PercentRoundTo100Scroll.bin
+![GitHub Logo](images/3CK-Blue_PercentRoundTo100Scroll.jpg)
+
+> โปรแกรม บล็อกของ 3 CK - Blue_PercentRoundTo100ScrollDependKey.bin
+![GitHub Logo](images/3CK-Blue_PercentRoundTo100ScrollDepebdKey.jpg)
