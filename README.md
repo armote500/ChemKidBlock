@@ -30,7 +30,7 @@ My Blockly-Code Samples (Beta Version)
 - 3 CK - Blue_PercentRoundTo100ScrollDependKey.bin จะแสดงข้อความแบบเลื่อนเมื่อมีการกด Key1
 
 **LAB 10 - การคำนวณเพื่อประยุกต์ใช้งาน ในการวัดสารเคมีต่างๆ ในน้ำ สามารถสร้างการสอบเทียบ (จะได้กล่าวต่อไป) และเมื่อได้สมการแล้วนำสมการมาใส่ลงในโปรแกรมได้ดังตัวอย่าง**
-- ตัวอย่าง Coding Chlorine (Para).bin
+- ตัวอย่าง Coding Chlorine (Para).bin (โดย .zip นั้นคือโปรแกรมเดียวกันแต่อยู่ในรูปแบบ zip file เพื่อให้สามารถเลือก download เฉพาะไฟล์ .zip นี้จาก GitHub ได้)
 - ตัวอย่าง Coding pH (Marine).bin
 
 **LAB 100 - Trick and Tips ต่างๆ ดังตัวอย่าง**
