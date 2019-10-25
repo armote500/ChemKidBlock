@@ -33,10 +33,8 @@ My Blockly-Code Samples (Beta Version)
 - ตัวอย่าง Coding Chlorine (Para).bin
 - ตัวอย่าง Coding pH (Marine).bin
 
-**LAB 100 - Trick and Tips ต่างๆ ดังตัวอย่าง**
-- 100Advance-Float2Digit.bin
-- 100Advance-Float2Digit.bin.zip โปรแกรมในรูปแบบ zip file เพื่อเลือก download เฉพาะไฟล์ได้
-
+**LAB100 - Trick and Tips ต่างๆ ดังตัวอย่าง**
+- Lab100Advance-Float2Digit.bin (Lab100Advance-Float2Digit.bin.zip โปรแกรมในรูปแบบ zip file เพื่อเลือก download เฉพาะไฟล์ได้)
 
 
 > อุปกรณ์และส่วนประกอบของ ChemKid เครื่องอ่านสีสารละลาย 
