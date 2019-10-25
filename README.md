@@ -106,3 +106,7 @@ My Blockly-Code Samples (Beta Version)
 ![GitHub Logo](images/ตัวอย่างCodingpH(Marine).jpg)
 
 
+
+
+> โปรแกรม Advance บล็อกของการแปลงตัวเลขทศนิยมที่มีจำนวนหลายหลักทศนิยม ให้เหลือ 2 หลักทศนิยม ดัง 100Advance-Float2Digit.bin
+![GitHub Logo](images/100Advance-Float2Digit.jpg)
