@@ -112,5 +112,5 @@ My Blockly-Code Samples (Beta Version)
 
 
 
-> โปรแกรม Advance บล็อกของการแปลงตัวเลขทศนิยมที่มีจำนวนหลายหลักทศนิยม ให้เหลือ 2 หลักทศนิยม ดัง 100Advance-Float2Digit.bin
-![GitHub Logo](images/100Advance-Float2Digit.jpg)
+> โปรแกรม Advance บล็อกของการแปลงตัวเลขทศนิยมที่มีจำนวนหลายหลักทศนิยม ให้เหลือ 2 หลักทศนิยม ดัง Lab100Advance-Float2Digit.bin
+![GitHub Logo](images/Lab100Advance-Float2Digit.jpg)
